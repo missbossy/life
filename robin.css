@@ -10,7 +10,7 @@
 #life section.year.age_50,
 #life section.year.age_55,
 #life section.year.age_50
-{border-left: 1px solid #fff; opacity:.4;
+{opacity:.3;
 
 background: -moz-linear-gradient(left,  rgba(130,130,130,0.98) 0%, rgba(0,0,0,0) 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(130,130,130,0.98)), color-stop(100%,rgba(0,0,0,0))); /* Chrome,Safari4+ */
@@ -22,3 +22,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fa828282', e
 
 
 }
+#life .event.c_5 .time ,
+#life .event.c_14 .time ,
+
+{ border: 4ps solid #6B6B6B}
+
