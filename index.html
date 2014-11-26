@@ -216,7 +216,7 @@ h1{
 			return data;
 		},
 		firstYear: null,
-		renderEvent: function(d){
+		renderEvent: function(d,nd){
 			var firstYear = life.firstYear;
 			var yearLength = life.config.yearLength;
 			var monthLength = yearLength/12;
@@ -267,7 +267,6 @@ h1{
 				d.text = d.text.replace(link[0], "<a href='" + link[2] + "'" + link_attr + ">" + link[1] + "</a>");
 			}
 
-			 var nd = nd + 1;
 			return '<div class="event c_'+nd+'" style="margin-left: ' + offset.toFixed(2) + 'px">'
 				+ '<div class="time" style="width: ' + width.toFixed(2) + 'px"></div>'
 				+ '<b>' + d.time.title + '</b> ' + d.text + '&nbsp;&nbsp;'
@@ -305,7 +304,7 @@ h1{
 
 			var html = life.renderYears(firstYear, lastYear);
 			data.forEach(function(d){
-				html += life.renderEvent(d);
+				html += life.renderEvent(d,1);
 			});
 			life.$el.innerHTML = html;
 		}
