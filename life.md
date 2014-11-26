@@ -12,7 +12,6 @@ Robin's life
 - 05/1984-05/1985 Vice President, Student's Union
 - 09/1988 Moved to Birmingham, UK
 - 10/1988-05/1989 Aston Business School (Exchange)
-- 09/1982-05/1989 University of Ottawa
 
 - 07/1989 Moved to Manchester
 - 07/1989-06/1990 ICL PLC
