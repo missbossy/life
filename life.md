@@ -22,4 +22,4 @@ Robin's life
 - 09/1996-04/1998 CIBC, Singapore
 - 04/1998-11/2006 Credit Suisse & CSFB
 - 01/2007-06/2009 Barclays Capital
-- 01/2010-2014 Savanant 
+- 01/2010-2014 Savanant
