@@ -1,6 +1,10 @@
 Robin's life
 ===============
 
+- 05/09/1965-09/1998 Canada
+- 09/1998-09/1993 UK
+- 09/1993-2014 Singapore
+
 - 05/09/1965 Born in Montreal
 - 15/12/1969 Kicked out of ballet school
 - 09/1970-06/1977 Allancroft Elementary School
@@ -21,7 +25,6 @@ Robin's life
 - 08/1991 Moved to London
 - 08/1991-08/1993 Barclays Bank, London
 
-- 09/1993-2014 Singapore
 - 09/1993 Moved to Singapore
 - 09/1993-09/1996 Barclays Bank, Singapore
 - ~1995 Hong Kong (3 month placement w/McKinsey)
@@ -29,5 +32,4 @@ Robin's life
 - 04/1998-11/2006 Credit Suisse & CSFB
 - 01/2007-06/2009 Barclays Capital
 
-- 01/2010-2014 Post Banking
 - 01/2010-2014 Savanant

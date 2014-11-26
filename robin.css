@@ -22,8 +22,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fa828282', e
 
 
 }
-#life .c_5 .time ,
-#life .c_14 .time 
+#life .c_5 .time  { border: 4px solid #FAFF43  !important}
 
-{ border: 4px solid #6B6B6B !important}
+#life .c_13 .time  { border: 4px solid #6684E4  !important}
+
+
+
 
