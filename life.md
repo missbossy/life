@@ -6,7 +6,7 @@ Robin's life
 - 09/1970-06/1977 Allancroft Elementary School
 - 09/1977-06/1982 Beaconsfield High School
 - 09/1982-05/1983 Pre-U, U of Ottawa
-- 09/1983-05/1984 U of Ottawa, Biology
+- 09/1983-05/1984 U of Ottawa, Biologyx
 - 05/1984-05/1985 Vice President, Student's Union
 - 09/1985-05/1989 U of Ottawa, Business Administration
 - 10/1988-05/1989 Aston Business School, Exchange
