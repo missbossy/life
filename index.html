@@ -267,7 +267,7 @@ h1{
 				d.text = d.text.replace(link[0], "<a href='" + link[2] + "'" + link_attr + ">" + link[1] + "</a>");
 			}
 
-			return '<div class="event c_'+nd+'" style="margin-left: ' + offset.toFixed(2) + 'px">'
+			return '<div class="event c_'+ nd +'" style="margin-left: ' + offset.toFixed(2) + 'px">'
 				+ '<div class="time" style="width: ' + width.toFixed(2) + 'px"></div>'
 				+ '<b>' + d.time.title + '</b> ' + d.text + '&nbsp;&nbsp;'
 				+ '</div>';
@@ -303,8 +303,10 @@ h1{
 			life.firstYear = firstYear;
 
 			var html = life.renderYears(firstYear, lastYear);
+			var counter = 0;
 			data.forEach(function(d){
-				html += life.renderEvent(d,1);
+			    counter = counter + 1;
+				html += life.renderEvent(d,counter);
 			});
 			life.$el.innerHTML = html;
 		}
