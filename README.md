@@ -5,6 +5,20 @@ This is something that I've wanted to build for a long time. It's a **timeline o
 
 So, this is it. Have a look at [cheeaun.github.io/life](http://cheeaun.github.io/life).
 
+**Robin's edits**:
+
+- I've added inique class identifiers to the life "years" and timebands in order to give more control over styling (done through class instead of id - I wanted to make minimal changes to the script)
+- I've added an FB og:img meta tag so that when the link is shared on FB, it will have an image. Add the image url in the config.json file
+- The file can be used to parse multiple life.md files in the form of name.md. Simple add name.md, name.config.json and name.css. Then display the results at  http://username.github.io/life/?life=name
+
+Tops for formatting
+- Set up all your life events before doing styling because changes to life events will change the div identifier
+- Edit name.css (rename as you wish)
+- Change the og:img link in name.config.json
+
+This is the result: [missbossy.github.io/life](http://missbossy.github.io/life).
+
+
 Features
 --------
 
